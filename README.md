@@ -29,4 +29,4 @@
 
 ![gianmarioiamoni's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gianmarioiamoni&theme=ayu-mirage&hide_border=false)
 
-![gianmarioiamoni's Stats](https://github-readme-stats.vercel.app/api?username=gianmarioiamoni&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true)
+
