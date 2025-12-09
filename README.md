@@ -77,13 +77,47 @@ LLM-powered automation for scheduling, drafting emails, extracting key informati
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=gianmarioiamoni&repo=multi-agent-ai-platform&theme=tokyonight)](https://github.com/gianmarioiamoni/multi-agent-ai-platform)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=gianmarioiamoni&repo=ai-knowledge-companion&theme=tokyonight)](https://github.com/gianmarioiamoni/ai-knowledge-companion)
-
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=gianmarioiamoni&repo=PIVABalance&theme=tokyonight)](https://github.com/gianmarioiamoni/PIVABalance)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=gianmarioiamoni&repo=agile-pm&theme=tokyonight)](https://github.com/gianmarioiamoni/agile-pm)
+<table>
+  <tr>
+    <td width="45%" valign="top">
+      <h3><a href="https://github.com/gianmarioiamoni/multi-agent-ai-platform">multi-agent-ai-platform</a></h3>
+      <p>Experiments and tooling around multi-agent AI workflows.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/gianmarioiamoni/multi-agent-ai-platform?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/github/last-commit/gianmarioiamoni/multi-agent-ai-platform?style=flat-square" />
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <h3><a href="https://github.com/gianmarioiamoni/ai-knowledge-companion">ai-knowledge-companion</a></h3>
+      <p>AI assistant for exploring and querying knowledge bases.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/gianmarioiamoni/ai-knowledge-companion?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/github/last-commit/gianmarioiamoni/ai-knowledge-companion?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="45%" valign="top">
+      <h3><a href="https://github.com/gianmarioiamoni/PIVABalance">PIVABalance</a></h3>
+      <p>Project for managing and tracking PIVA-related activities and balance.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/gianmarioiamoni/PIVABalance?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/github/last-commit/gianmarioiamoni/PIVABalance?style=flat-square" />
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <h3><a href="https://github.com/gianmarioiamoni/agile-pm">agile-pm</a></h3>
+      <p>Agile project management utilities and tooling.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/gianmarioiamoni/agile-pm?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/github/last-commit/gianmarioiamoni/agile-pm?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
