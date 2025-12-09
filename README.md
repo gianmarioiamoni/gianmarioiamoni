@@ -80,16 +80,28 @@ LLM-powered automation for scheduling, drafting emails, extracting key informati
 <table>
   <tr>
     <td width="45%" valign="top">
-      <h3><a href="https://github.com/gianmarioiamoni/multi-agent-ai-platform">multi-agent-ai-platform</a></h3>
-      <p>Experiments and tooling around multi-agent AI workflows.</p>
+      <h3>🤖 <a href="https://github.com/gianmarioiamoni/multi-agent-ai-platform">multi-agent-ai-platform</a></h3>
+      <p><strong>Multi-agent orchestration for LLM-based workflows.</strong><br/>
+      Playground for coordinating multiple AI agents, tools and memory to solve complex tasks end-to-end.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI-LLM%20Agents-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20TypeScript-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pattern-Orchestration-orange?style=flat-square" />
+      </p>
       <p>
         <img src="https://img.shields.io/github/stars/gianmarioiamoni/multi-agent-ai-platform?style=flat-square&logo=github" />
         <img src="https://img.shields.io/github/last-commit/gianmarioiamoni/multi-agent-ai-platform?style=flat-square" />
       </p>
     </td>
     <td width="45%" valign="top">
-      <h3><a href="https://github.com/gianmarioiamoni/ai-knowledge-companion">ai-knowledge-companion</a></h3>
-      <p>AI assistant for exploring and querying knowledge bases.</p>
+      <h3>📚 <a href="https://github.com/gianmarioiamoni/ai-knowledge-companion">ai-knowledge-companion</a></h3>
+      <p><strong>AI companion for exploring knowledge bases.</strong><br/>
+      RAG-powered assistant to query, summarize and navigate complex documentation and data sources.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI-RAG%20%7C%20LangChain-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20TypeScript-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Use%20Case-Docs%20Assistant-orange?style=flat-square" />
+      </p>
       <p>
         <img src="https://img.shields.io/github/stars/gianmarioiamoni/ai-knowledge-companion?style=flat-square&logo=github" />
         <img src="https://img.shields.io/github/last-commit/gianmarioiamoni/ai-knowledge-companion?style=flat-square" />
@@ -98,16 +110,28 @@ LLM-powered automation for scheduling, drafting emails, extracting key informati
   </tr>
   <tr>
     <td width="45%" valign="top">
-      <h3><a href="https://github.com/gianmarioiamoni/PIVABalance">PIVABalance</a></h3>
-      <p>Project for managing and tracking PIVA-related activities and balance.</p>
+      <h3>💼 <a href="https://github.com/gianmarioiamoni/PIVABalance">PIVABalance</a></h3>
+      <p><strong>Tool per la gestione della Partita IVA.</strong><br/>
+      Supporto al tracking di entrate, uscite e saldo per freelance e consulenti.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-Freelance%20Finance-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node.js-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Focus-Productivity-orange?style=flat-square" />
+      </p>
       <p>
         <img src="https://img.shields.io/github/stars/gianmarioiamoni/PIVABalance?style=flat-square&logo=github" />
         <img src="https://img.shields.io/github/last-commit/gianmarioiamoni/PIVABalance?style=flat-square" />
       </p>
     </td>
     <td width="45%" valign="top">
-      <h3><a href="https://github.com/gianmarioiamoni/agile-pm">agile-pm</a></h3>
-      <p>Agile project management utilities and tooling.</p>
+      <h3>📈 <a href="https://github.com/gianmarioiamoni/agile-pm">agile-pm</a></h3>
+      <p><strong>Agile project management toolkit.</strong><br/>
+      Utilities and experiments for managing backlogs, sprints and tasks in agile environments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-Agile%20PM-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20TypeScript-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Focus-Planning%20%26%20Tracking-orange?style=flat-square" />
+      </p>
       <p>
         <img src="https://img.shields.io/github/stars/gianmarioiamoni/agile-pm?style=flat-square&logo=github" />
         <img src="https://img.shields.io/github/last-commit/gianmarioiamoni/agile-pm?style=flat-square" />
@@ -117,6 +141,7 @@ LLM-powered automation for scheduling, drafting emails, extracting key informati
 </table>
 
 </div>
+
 
 
 ---
