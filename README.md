@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="./banner.png" alt="Gianmario Iamoni - Full-stack and AI Engineer" width="25%" />
+  <img src="./banner.png" alt="Gianmario Iamoni - Full-stack and AI Engineer" width="30%" />
 </p>
 
 <br/>
 
 <div align="center">
 
-# 🚀 **Gianmario Iamoni**  
-### **Full-Stack & AI Engineer**  
 Crafting scalable, intelligent, end-to-end digital solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gianmarioiamoni)
