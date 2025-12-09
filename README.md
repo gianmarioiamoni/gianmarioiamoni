@@ -77,11 +77,11 @@ LLM-powered automation for scheduling, drafting emails, extracting key informati
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=gianmarioiamoni&repo=mern-supabase-app&theme=tokyonight)](https://github.com/gianmarioiamoni/mern-supabase-app)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=gianmarioiamoni&repo=ai-content-generator&theme=tokyonight)](https://github.com/gianmarioiamoni/ai-content-generator)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=gianmarioiamoni&repo=multi-agent-ai-platform&theme=tokyonight)](https://github.com/gianmarioiamoni/multi-agent-ai-platform)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=gianmarioiamoni&repo=ai-knowledge-companion&theme=tokyonight)](https://github.com/gianmarioiamoni/ai-knowledge-companion)
 
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=gianmarioiamoni&repo=smart-todo-app&theme=tokyonight)](https://github.com/gianmarioiamoni/smart-todo-app)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=gianmarioiamoni&repo=ecommerce-image-ai&theme=tokyonight)](https://github.com/gianmarioiamoni/ecommerce-image-ai)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=gianmarioiamoni&repo=PIVABalance&theme=tokyonight)](https://github.com/gianmarioiamoni/PIVABalance)
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=gianmarioiamoni&repo=agile-pm&theme=tokyonight)](https://github.com/gianmarioiamoni/agile-pm)
 
 </div>
 
