@@ -185,7 +185,7 @@ LLM-powered automation for scheduling, drafting emails, extracting key informati
 If you're building **web apps, AI tools or SaaS platforms**, I’d love to collaborate.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gianmarioiamoni)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianmario.iamoni@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianmarioiamoni1@gmail.com)
 
 </div>
 
