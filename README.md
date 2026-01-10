@@ -16,7 +16,7 @@ Crafting scalable, intelligent, end-to-end digital solutions.
 ---
 
 # 🧩 **About Me**
-I'm a full-stack engineer specialized in the **MERN ecosystem with TypeScript**, passionate about building clean, scalable, production-ready web applications.
+I'm a full-stack and AI engineer specialized in the **MERN ecosystem with TypeScript**, passionate about building clean, scalable, production-ready web applications.
 
 After years of experience in software engineering and sales engineering, I now focus on:
 
