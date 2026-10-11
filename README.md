@@ -270,10 +270,10 @@ Interested in building **AI-powered applications, GenAI platforms, intelligent a
 
 Let's discuss how we can turn complex requirements into reliable software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gianmarioiamoni) [![Connect with me](https://img.shields.io/badge/Connect_with_me-grey?style=for-the-badge)](https://linkedin.com/in/gianmarioiamoni)
+[![LinkedIn](./assets/linkedin.svg)](https://linkedin.com/in/gianmarioiamoni) [![Connect with me](https://img.shields.io/badge/Connect_with_me-grey?style=for-the-badge)](https://linkedin.com/in/gianmarioiamoni)
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianmarioiamoni1@gmail.com) [![Contact Me](https://img.shields.io/badge/Contact_Me-grey?style=for-the-badge)](mailto:gianmarioiamoni1@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gianmario-portfolio.onrender.com/) [![More about me](https://img.shields.io/badge/More_about_me-grey?style=for-the-badge)](https://gianmario-portfolio.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gianmario-portfolio.onrender.com/) [![More_about_me](https://img.shields.io/badge/More_about_me-grey?style=for-the-badge)](https://gianmario-portfolio.onrender.com/)
 
 </div>
